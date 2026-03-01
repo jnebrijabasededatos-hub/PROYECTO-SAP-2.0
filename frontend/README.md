@@ -1,5 +1,5 @@
 Me encanta que hayas llegado hasta aquí, Johandri. Ahora vamos a hacer lo importante: entender de verdad qué has construido.
-Voy a explicarte todo como si no supieras nada de programación—el qué, el por qué y para qué de cada parte.
+Voy a explicarte todo —el qué, el por qué y para qué de cada parte.
 
 Voy a seguir este orden:
 
